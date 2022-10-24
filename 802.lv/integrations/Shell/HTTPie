@@ -1,2 +1,0 @@
-http GET 'https://api_dev.apitube.io/v1/sets/46796339?limit=250&offset=0' \
-	X-ApiTube-Key:***KEY***
