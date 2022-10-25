@@ -1,28 +1,28 @@
 {
     "response": {
         "creator": "APITUBE (https:\/\/apitube.pub)",
-        "total_count": 6508,
+        "total_count": 6531,
         "updated_at": "2022-10-25 9:59:56",
         "items": [
             {
-                "title": "Iván Batalla, a young 3D Artist from northern Spain, discussed his latest model – the Gateway Galaxy from Nintendo’s game “Super Mario Galaxy”.",
-                "link": "https:\/\/80.lv\/articles\/sketchfab-art-spotlight-mario-galaxy\/",
-                "created_at": "2022-10-25 10:16:19"
+                "title": "Looking for some top-notch educational content on Houdini?",
+                "link": "https:\/\/80.lv\/articles\/creating-a-procedural-snowflake-in-houdini\/",
+                "created_at": "2022-10-25 10:16:48"
             },
             {
-                "title": "Hard Surface Modeler Andrew Hodgson has published a series of videos that demonstrate his approach to different shapes and contain tons of tricks.",
-                "link": "https:\/\/80.lv\/articles\/maya-basics-sub-d-topology-techniques\/",
-                "created_at": "2022-10-25 10:16:19"
+                "title": "Alex Beddows shared his approach to recreating a cafe ceiling with a complex pattern, talked about planning such a project, shared his workflow with the Curve Draw Node by Ilya Kuzmichev and gave some tips on presentation.",
+                "link": "https:\/\/80.lv\/articles\/001agt-cafe-ceiling-creating-complex-materials-in-substance-designer\/",
+                "created_at": "2022-10-25 10:16:48"
             },
             {
-                "title": "Antoine Collignon recently released a pack of 40 PNG Damaged Decals at 2k resolution.",
-                "link": "https:\/\/80.lv\/articles\/great-urban-decals-for-5\/",
-                "created_at": "2022-10-25 10:16:18"
+                "title": "Toss a Coin to Your Witcher!",
+                "link": "https:\/\/80.lv\/articles\/netflix-witcher-anime-announced\/",
+                "created_at": "2022-10-25 10:16:45"
             },
             {
-                "title": "The company steps away from story-driven games to find something new.",
-                "link": "https:\/\/80.lv\/articles\/remedy-bets-on-multiplayer-experience\/",
-                "created_at": "2022-10-25 10:16:19"
+                "title": "Brave Rabbit’s Ingo Clemens decided to update some of his tools and make them open source.",
+                "link": "https:\/\/80.lv\/articles\/free-weights-smoothing-tool-for-maya\/",
+                "created_at": "2022-10-25 10:16:48"
             },
             {
                 "title": "Check out a cool new photorealistic project by Postoffice Amsterdam.",
@@ -768,6 +768,11 @@
                 "title": "The Astronauts released the second demo of their latest game, Witchfire, a dark fantasy first-person shooter.",
                 "link": "https:\/\/80.lv\/articles\/witchfire-internal-demo-2-released\/",
                 "created_at": "2022-10-25 10:02:17"
+            },
+            {
+                "title": "Game developers will be required to make time-limited trials for PS Plus Premium games that are priced at $34 or more.",
+                "link": "https:\/\/80.lv\/articles\/sony-will-reportedly-require-time-trials-on-ps-plus-premium\/",
+                "created_at": "2022-10-25 10:16:44"
             },
             {
                 "title": "Here's your chance to get into 3D sculpting free of charge.",
@@ -2508,6 +2513,11 @@
                 "title": "Kate Blackshear showed her first environment in the style of Little Nightmares with a cel-shaded look. The project was made with UE4 and Marmoset Toolbag.",
                 "link": "https:\/\/80.lv\/articles\/002mrs-crafting-a-cel-shaded-game-ready-scene-in-ue4\/",
                 "created_at": "2022-10-25 10:13:20"
+            },
+            {
+                "title": "Valve's former writer Chet Faliszek shared that at the early stages of Left 4 Dead development, Valve's head Gabe Newell tried to persuade the developers not to make a zombie game as he considered zombies too \"cheesy\".",
+                "link": "https:\/\/80.lv\/articles\/left-4-dead-could-have-been-not-a-zombie-game-at-all\/",
+                "created_at": "2022-10-25 10:16:45"
             },
             {
                 "title": "Santa Monica shared that the voice of the actor for Atreus \"changed dramatically\", so the team had to \"get creative\" to deal with it.",
@@ -7855,6 +7865,11 @@
                 "created_at": "2022-10-24 10:08:33"
             },
             {
+                "title": "The follow-up tutorial video of the popular guide by Wiktor Öhman.",
+                "link": "https:\/\/80.lv\/articles\/tutorial-get-faster-in-maya-ii\/",
+                "created_at": "2022-10-25 10:16:45"
+            },
+            {
                 "title": "During GDC 2015 we’ve had a chance to chat with Greg Mendeleev, channel manager from Akamai. This huge company helps",
                 "link": "https:\/\/80.lv\/articles\/akamai-interview\/",
                 "created_at": "2022-10-24 10:40:20"
@@ -7903,6 +7918,11 @@
                 "title": "Sungwoo Lee shared some nice tips about using World Machine to build amazing landscapes in Unreal Engine 4.",
                 "link": "https:\/\/80.lv\/articles\/tips-on-world-machine-landscape-production\/",
                 "created_at": "2022-10-25 9:52:48"
+            },
+            {
+                "title": "The company’s CEO Jen-Hsun Huang presented a new processor for AI applications that holds an incredible power.",
+                "link": "https:\/\/80.lv\/articles\/nvidia-tesla-v100-the-best-processor-for-ai-research\/",
+                "created_at": "2022-10-25 10:16:40"
             },
             {
                 "title": "Check out a new advanced framework proposed by a team from Shanghai Jiao Tong University.",
@@ -8228,6 +8248,11 @@
                 "title": "Nikolay Marinov shared the thesis paper he graduated with earlier this year.",
                 "link": "https:\/\/80.lv\/articles\/thesis-paper-procedural-distribution-of-3d-assets-in-real-time-environments\/",
                 "created_at": "2022-10-24 10:31:29"
+            },
+            {
+                "title": "Take a look at a Houdini Digital Asset (HDA) called Skinning Converter.",
+                "link": "https:\/\/80.lv\/articles\/hda-skinning-converter\/",
+                "created_at": "2022-10-25 10:16:40"
             },
             {
                 "title": "Joe Garth has recently shared a new video guide to help users master the toolkit.",
@@ -9770,6 +9795,11 @@
                 "created_at": "2022-10-24 10:08:31"
             },
             {
+                "title": "Hard Surface Modeler Andrew Hodgson has published a series of videos that demonstrate his approach to different shapes and contain tons of tricks.",
+                "link": "https:\/\/80.lv\/articles\/maya-basics-sub-d-topology-techniques\/",
+                "created_at": "2022-10-25 10:16:19"
+            },
+            {
                 "title": "NVIDIA's GANverse3D now allows the creation of a 3D animated model with a single 2D picture.",
                 "link": "https:\/\/80.lv\/articles\/turining-2d-pictures-of-cars-into-3d-models-with-nvidia\/",
                 "created_at": "2022-10-25 10:03:03"
@@ -10693,6 +10723,11 @@
                 "title": "Take a look at a pack for Unity that includes 5 kinds of frequently used effects.",
                 "link": "https:\/\/80.lv\/articles\/occlusion-fx-for-unity\/",
                 "created_at": "2022-10-24 10:53:02"
+            },
+            {
+                "title": "Check out the biggest update of the motion capture editing software from Autodesk.",
+                "link": "https:\/\/80.lv\/articles\/autodesk-released-motionbuilder-2022\/",
+                "created_at": "2022-10-25 10:16:45"
             },
             {
                 "title": "The project will now be joining the Quixel Megascans library.",
@@ -12480,6 +12515,11 @@
                 "created_at": "2022-10-25 10:03:55"
             },
             {
+                "title": "The company steps away from story-driven games to find something new.",
+                "link": "https:\/\/80.lv\/articles\/remedy-bets-on-multiplayer-experience\/",
+                "created_at": "2022-10-25 10:16:19"
+            },
+            {
                 "title": "Ares Dragonis shared more details about his game THE SHORE inspired by H. P. Lovecraft's stories, talked about his approach to creating monsters, and how he manages to handle all the tasks alone.",
                 "link": "https:\/\/80.lv\/articles\/the-shore-solo-game-development-and-creature-production\/",
                 "created_at": "2022-10-25 9:58:56"
@@ -13830,6 +13870,11 @@
                 "created_at": "2022-10-25 9:53:19"
             },
             {
+                "title": "A new part of Sketchfab’s Art Spotlight is about working on amazing interfaces inside Houdini.",
+                "link": "https:\/\/80.lv\/articles\/creating-retro-inspired-interfaces-in-houdini\/",
+                "created_at": "2022-10-25 10:16:40"
+            },
+            {
                 "title": "Intel Arc A770 has 32 Xe-cores, a 2100MHz average frequency, and 560GB\/s memory bandwidth.",
                 "link": "https:\/\/80.lv\/articles\/intel-revealed-the-specifications-of-its-arc-gpus\/",
                 "created_at": "2022-10-25 10:15:22"
@@ -14495,6 +14540,11 @@
                 "created_at": "2022-10-24 10:33:21"
             },
             {
+                "title": "Antoine Collignon recently released a pack of 40 PNG Damaged Decals at 2k resolution.",
+                "link": "https:\/\/80.lv\/articles\/great-urban-decals-for-5\/",
+                "created_at": "2022-10-25 10:16:18"
+            },
+            {
                 "title": "Framestore's deep-dive into the creative process behind their anti-knife campaign Long Live The Prince, and how they used machine learning in the form of Nuke’s CopyCat node to benefit the production.",
                 "link": "https:\/\/80.lv\/articles\/framestore-accelerates-their-creative-process-using-nuke-s-copycat\/",
                 "created_at": "2022-10-24 10:45:16"
@@ -14553,6 +14603,11 @@
                 "title": "An initial focus is said to be architecture, engineering, and construction (AEC).",
                 "link": "https:\/\/80.lv\/articles\/epic-and-autodesk-team-up-to-accelerate-real-time-experiences\/",
                 "created_at": "2022-10-21 8:10:53"
+            },
+            {
+                "title": "James Hyun did a breakdown of his stylized character Viking Warrior made during the course Stylized Characters in 3D at CGMA.",
+                "link": "https:\/\/80.lv\/articles\/creating-a-stylized-viking-warrior-in-zbrush-and-substance-painter\/",
+                "created_at": "2022-10-25 10:16:33"
             },
             {
                 "title": "Faceware Technologies has launched a new technological department, which will help virtual humans and characters to interact with people in real time.",
@@ -16603,6 +16658,11 @@
                 "title": "Analytics company GfK revealed the top 30 best-selling video game brands in UK history. FIFA unsurprisingly took the No.1 spot among the highest-earning game franchises.",
                 "link": "https:\/\/80.lv\/articles\/gfk-uk-s-highest-earning-video-game-franchises\/",
                 "created_at": "2022-10-24 10:41:06"
+            },
+            {
+                "title": "Senior Concept Artist from Firaxis Games Piero Macgowan talked about his approach to modern concept art and his recent works for XCOM games.",
+                "link": "https:\/\/80.lv\/articles\/modern-concept-art-with-piero-macgowan\/",
+                "created_at": "2022-10-25 10:16:31"
             },
             {
                 "title": "It appears that the team is busy developing a brand new title.",
@@ -19645,6 +19705,11 @@
                 "created_at": "2022-10-25 9:55:05"
             },
             {
+                "title": "Jared Fischler did a breakdown of his amazing scene made as a part of a class at Gnomon. The main focus was put on visual storytelling.",
+                "link": "https:\/\/80.lv\/articles\/001agt-004adk-crafting-intimate-scenes-with-visual-storytelling\/",
+                "created_at": "2022-10-25 10:16:34"
+            },
+            {
                 "title": "Check out 5 character courses, covering up the production of concept, fantasy, sci-fi, and realistic characters as well as collectibles creation for 3D printing and creatures design.",
                 "link": "https:\/\/80.lv\/articles\/courses-on-fantasy-sci-fi-and-realistic-character-art-workflow\/",
                 "created_at": "2022-10-21 8:05:58"
@@ -20198,6 +20263,11 @@
                 "title": "The Remedy team has presented Control, it’s new game previously known as P7, at Sony’s live PlayStation E3 2018 showcase.",
                 "link": "https:\/\/80.lv\/articles\/control-meet-remedys-new-game\/",
                 "created_at": "2022-10-25 9:57:53"
+            },
+            {
+                "title": "Iván Batalla, a young 3D Artist from northern Spain, discussed his latest model – the Gateway Galaxy from Nintendo’s game “Super Mario Galaxy”.",
+                "link": "https:\/\/80.lv\/articles\/sketchfab-art-spotlight-mario-galaxy\/",
+                "created_at": "2022-10-25 10:16:19"
             },
             {
                 "title": "A major update to Epic Games' Unreal Engine-based real-time visualization software was released including new features, tools and bugs fixed.",
@@ -22175,6 +22245,11 @@
                 "created_at": "2022-10-25 10:15:35"
             },
             {
+                "title": "It’s time to remember and discuss the franchise with a nice talk by Ubisoft’s Jean Guesdon on the game’s evolution.",
+                "link": "https:\/\/80.lv\/articles\/10-years-of-evolution-of-assassins-creed\/",
+                "created_at": "2022-10-25 10:16:34"
+            },
+            {
                 "title": "RwanLink demonstrated an unorthodox way to use UE5.",
                 "link": "https:\/\/80.lv\/articles\/manga-like-3d-renders-made-in-unreal-engine-5\/",
                 "created_at": "2022-10-24 10:50:26"
@@ -23940,6 +24015,11 @@
                 "created_at": "2022-10-21 7:47:33"
             },
             {
+                "title": "A new book by Kotaku news editor Jason Schreier tells the triumphant and turbulent development stories behind the most popular games of all ages in his recent book Blood, Sweat, and Pixels.",
+                "link": "https:\/\/80.lv\/articles\/blood-sweat-and-pixels-what-can-go-wrong\/",
+                "created_at": "2022-10-25 10:16:34"
+            },
+            {
                 "title": "Thank you all for all your support!",
                 "link": "https:\/\/80.lv\/articles\/80-level-our-instagram-has-been-restored\/",
                 "created_at": "2022-10-24 10:42:07"
@@ -25080,6 +25160,11 @@
                 "created_at": "2022-10-24 10:48:38"
             },
             {
+                "title": "Congrats to the developers of the game!",
+                "link": "https:\/\/80.lv\/articles\/monster-hunter-rise-shipped-7m-copies-in-two-months\/",
+                "created_at": "2022-10-25 10:16:28"
+            },
+            {
                 "title": "Lenovo ThinkStation P620 is the only way to buy the Threadripper Pro 5000 WX yet.",
                 "link": "https:\/\/80.lv\/articles\/first-ryzen-threadripper-pro-5000-wx-series-workstation\/",
                 "created_at": "2022-10-25 9:52:17"
@@ -25893,6 +25978,11 @@
                 "title": "Lockdown is a revolutionary new plug-in for After Effects that lets users track warping surfaces inside the Adobe tool.",
                 "link": "https:\/\/80.lv\/articles\/lockdown-plug-in-for-after-effects\/",
                 "created_at": "2022-10-25 9:54:45"
+            },
+            {
+                "title": "Freelance 3d artist Amy Sharpe shared some tips and tricks of building great virtual heroes.",
+                "link": "https:\/\/80.lv\/articles\/character-desing-of-amy-sharpe\/",
+                "created_at": "2022-10-25 10:16:40"
             },
             {
                 "title": "The mod includes a challenging hour-long campaign for experienced Half-Life: Alyx players.",
@@ -27330,6 +27420,11 @@
                 "created_at": "2022-10-24 10:41:27"
             },
             {
+                "title": "Foundry has recently announced a new release of Mari, a popular 3D painting software.",
+                "link": "https:\/\/80.lv\/articles\/mari-4-2-introducing-mirror-projection-features\/",
+                "created_at": "2022-10-25 10:16:45"
+            },
+            {
                 "title": "Check out a new fan-made mod that turns The Legend of Zelda: Breath of the Wild into a VR game.",
                 "link": "https:\/\/80.lv\/articles\/a-new-mod-to-turn-breath-of-the-wild-into-a-first-person-vr-game\/",
                 "created_at": "2022-10-25 10:06:17"
@@ -28245,6 +28340,11 @@
                 "created_at": "2022-10-24 10:47:19"
             },
             {
+                "title": "Check out a cool little tool with a number of parameters.",
+                "link": "https:\/\/80.lv\/articles\/a-browser-based-flow-map-generator\/",
+                "created_at": "2022-10-25 10:16:34"
+            },
+            {
                 "title": "RM-Parfait posted an outstanding concept design that will blow away the Overwatch community.",
                 "link": "https:\/\/80.lv\/articles\/a-thai-art-student-creates-a-new-overwatch-hero\/",
                 "created_at": "2022-10-25 10:04:54"
@@ -28653,6 +28753,11 @@
                 "title": "Foundry released Mari 4.6 which introduced the enhanced materials system for smoother workflows.",
                 "link": "https:\/\/80.lv\/articles\/mari-4-6-brings-enhanced-materials-system\/",
                 "created_at": "2022-10-25 9:53:16"
+            },
+            {
+                "title": "Learn how to set up large-scale environments procedurally with this 7-part guide.",
+                "link": "https:\/\/80.lv\/articles\/tutorial-procedural-desert-in-houdini-and-ue4\/",
+                "created_at": "2022-10-25 10:16:28"
             },
             {
                 "title": "Jakob Bergersen talked about the production of his amazing autumn landscape in Unreal Engine 4.",
@@ -29613,6 +29718,11 @@
                 "title": "Xiaomi Mijia Glasses Camera will start crowdfunding on August 3.",
                 "link": "https:\/\/80.lv\/articles\/xiaomi-unveiled-ar-glasses-with-50mp-camera-micro-oled-display\/",
                 "created_at": "2022-10-25 9:57:43"
+            },
+            {
+                "title": "This time, the developer added adaptive tessellation to the project.",
+                "link": "https:\/\/80.lv\/articles\/guillaume-boiss-s-procedural-ocean-updated\/",
+                "created_at": "2022-10-25 10:16:34"
             },
             {
                 "title": "Armin Halac shared a behind-the-scenes look at the upcoming combat animation.",
@@ -30763,6 +30873,11 @@
                 "title": "The game is rumored to be a timed PlayStation exclusive with reworked puzzles and new endings.",
                 "link": "https:\/\/80.lv\/articles\/bloober-team-is-reportedly-working-on-silent-hill-2-remake\/",
                 "created_at": "2022-10-24 10:36:10"
+            },
+            {
+                "title": "Michael Gerard did a breakdown of his Abandoned Train scene made with UE4, Megascans, and SpeedTree: moss creation, Cover System, PP Material, and more.",
+                "link": "https:\/\/80.lv\/articles\/003qxl-technical-side-of-environment-art-in-ue4\/",
+                "created_at": "2022-10-25 10:16:44"
             },
             {
                 "title": "Check out this 15-minute demo discussing different mechanics and showing the game's planets.",
