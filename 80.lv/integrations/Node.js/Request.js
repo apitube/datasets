@@ -1,0 +1,20 @@
+const request = require('request');
+
+const options = {
+    method: 'GET',
+    url: 'https://api_dev.apitube.io/v1/sets/30054214',
+    qs: {
+        limit: '250',
+        offset: '0',
+    },
+    headers: {
+        'X-ApiTube-Key': 'YOUR-KEY-HERE',
+        useQueryString: true
+    }
+};
+
+request(options, function (error, response, body) {
+    if (error) throw new Error(error);
+
+    console.log(body);
+});
