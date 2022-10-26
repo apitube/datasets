@@ -6,7 +6,7 @@ headers = {
     'X-ApiTube-Key': "YOUR-KEY-HERE"
 }
 
-conn.request("GET", "/v1/sets/46796339?limit=250&offset=0", headers=headers)
+conn.request("GET", "/v1/sets/30054214?limit=250&offset=0", headers=headers)
 
 res = conn.getresponse()
 data = res.read()
