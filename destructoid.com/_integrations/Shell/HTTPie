@@ -1,2 +1,0 @@
-http GET 'https://apitube.io/v1/sets/39119033?limit=250&offset=0' \
-	X-ApiTube-Key:YOUR-KEY-HERE
