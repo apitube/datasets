@@ -1,0 +1,5 @@
+wget --quiet \
+	--method GET \
+	--header 'X-ApiTube-Key: YOUR-KEY-HERE' \
+	--output-document \
+	- 'https://apitube.io/v1/sets/55587074?limit=250&offset=0'
